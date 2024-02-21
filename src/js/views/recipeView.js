@@ -1,7 +1,7 @@
 // ICONS
 import icons from 'url:../../img/icons.svg';
 // MODULS
-import { Fraction } from 'fractional';
+import { Fraction } from 'url:fractional';
 // PAGES
 import View from './View';
 
